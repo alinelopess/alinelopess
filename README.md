@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Pluma, Ruby, Jenkins, Cucumber, Capybara, RSpec, APIRest, Git, Selenium Webdriver and others</strong>
+  🦄 Skills: <strong>Pluma, Ruby, Gherkin, Cucumber, Capybara, RSpec, APIRest, Git, Selenium Webdriver, Jenkins and others</strong>
 </p>
 
 <p align="left">
