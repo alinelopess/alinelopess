@@ -1,4 +1,4 @@
-# README.md
+# ABOUT ME
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Pluma, Ruby, Jenkins, Cucumber, Capybara, RSPEC, APIRest</strong>
+  🦄 Skills: <strong>Pluma, Ruby, Jenkins, Cucumber, Capybara, RSPEC, APIRest, Git, Selenium Webdriver</strong>
 </p>
 
 <p align="left">
@@ -17,3 +17,6 @@
 <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-s-lopes/" /></a>
 </p>  
+
+<a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-s-lopes/" /></a>
