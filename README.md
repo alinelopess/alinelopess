@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! My name is Aline, and I'm a brazilian computer scientist living in Portugal. Currently, I've been working as a <strong> Software QA tester (automated and manual)</strong>. Here you can find the codes of what I have studied about automation, python or front-end.
+  Hi! My name is Aline, and I'm a brazilian computer scientist living in Portugal. Currently, I've been working as a <strong> Software QA tester (automated and manual)</strong>. Here you can find the codes of what I have studied about automation and other things.
 </p>
 
 <p align="left">
