@@ -3,15 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! My name is Aline, and I'm a brazilian computer scientist living in Portugal. Currently, I've been working as a <strong> Software QA tester (manual and automated)</strong>.
+  Hi! My name is Aline, and I'm a brazilian computer scientist living in Portugal. Currently, I've been working as a <strong> Software QA tester (manual and automated. Here you can find the codes of what I have studied about automation, python or front-end.</strong>.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Pluma, Ruby, Gherkin, Cucumber, Capybara, RSpec, APIRest, Git, Selenium Webdriver, Jenkins and others</strong>
-</p>
-
-<p align="left">
-  💌 You can find me here: ⤵️
+  💌 Contacts: ⤵️
 </p>
 
 <p align="left">
